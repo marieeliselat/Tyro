@@ -6,7 +6,7 @@
 
 ## Technologies Used
 
-- [Google Colab](https://colab.research.google.com/drive/1rhBanp8d1JIVZnqJaIApEzVcLhBKs_jE?usp=sharing)
+- Google Colab
 - ARIMA (AutoRegressive Integrated Moving Average)
 - Gaussian Process Regression
 - [Figma](https://figmashort.link/yfEYBX)

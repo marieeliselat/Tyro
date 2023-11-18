@@ -2,7 +2,7 @@
 
 ## Project Summary
 
-[Tyro](https://www.ai4goodlab.com/news/project-reports/2022/10/13/tyro-2022-montreal-accelerator-award-winner) is an innovative web application developed by a team at the AI4Good Lab. It's designed to help individuals track and predict their hormone levels, particularly catering to those with thyroid conditions. The project emerged as the 2022 Montreal Accelerator Award winner, distinguishing itself for its predictive capabilities and user-focused approach to health tracking
+At [Tyro](https://www.ai4goodlab.com/news/project-reports/2022/10/13/tyro-2022-montreal-accelerator-award-winner), we developed an innovative web application as part of the AI4Good Lab program. Our aim is to help individuals track and predict their hormone levels, with a special focus on those managing thyroid conditions. Our project won the 2022 Montreal Accelerator Award, recognized for its predictive capabilities and user-centric approach to health tracking.
 
 ## Technologies Used
 
